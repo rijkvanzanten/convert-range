@@ -10,7 +10,8 @@
   "keywords": [
     "convert",
     "range",
-    "value"
+    "value",
+    "can you have a \" quote in a keyword?"
   ],
   "author": "Rijk van Zanten <rijkvanzanten@me.com> (http://rijks.website)",
   "license": "MIT",
