@@ -1,6 +1,6 @@
 {
   "name": "convert-range",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "> Converts number from one range to another",
   "main": "index.js",
   "repository": {
